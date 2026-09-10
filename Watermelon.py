@@ -1,7 +1,6 @@
 #Problem: Watermelon
 #Platform: Codeforces
 
-
 weight = int(input())
 
 if weight > 2 and weight % 2 == 0:
