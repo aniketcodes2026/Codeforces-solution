@@ -1,5 +1,5 @@
-Problem: Team
-Platform: Codeforces
+#Problem: Team
+#Platform: Codeforces
 
 n = int(input())
 count = 0
