@@ -2,7 +2,6 @@
 #Platform: Codeforces
 
 n = int(input())
-
 count = 0
 
 for _ in range(n):
